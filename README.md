@@ -43,18 +43,17 @@ bash setup-todo-timer-app.sh
     node index.js
 2. Start Frontend
     In a new terminal:
-
-    cd frontend
-    npm start
+        cd frontend
+        npm start
 
 App runs at: http://localhost:3000
 Backend server at: http://localhost:4000
 
 💡 Tips for Development
-Modify task logic: In frontend/src/App.js.
-Style the app: Use frontend/src/App.css.
-Data persistence: Backend writes to backend/tasks.json.
-Troubleshooting CORS: Express has CORS enabled for frontend requests.
+    Modify task logic: In frontend/src/App.js.
+    Style the app: Use frontend/src/App.css.
+    Data persistence: Backend writes to backend/tasks.json.
+    Troubleshooting CORS: Express has CORS enabled for frontend requests.
 
 🧩 Extending the App
 You can extend this project with:
