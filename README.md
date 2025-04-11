@@ -32,30 +32,28 @@ A simple yet flexible full-stack To-Do web app built with React and Express.js. 
 ## 🛠️ Setup Instructions
 
 > One-line setup (bash):
-
 bash setup-todo-timer-app.sh
 
 ---
 
 ## 🧪 How to Run It
 1. Start Backend
-    cd backend
-    node index.js
-2. Start Frontend
-    In a new terminal:
-        cd frontend
-        npm start
+   - cd backend
+   - node index.js
+2. Start Frontend in a new terminal:
+    - cd frontend
+    - npm start
 
 App runs at: http://localhost:3000
 Backend server at: http://localhost:4000
 
-💡 Tips for Development
-    Modify task logic: In frontend/src/App.js.
-    Style the app: Use frontend/src/App.css.
-    Data persistence: Backend writes to backend/tasks.json.
-    Troubleshooting CORS: Express has CORS enabled for frontend requests.
+## 💡 Tips for Development
+    - Modify task logic: In frontend/src/App.js.
+    - Style the app: Use frontend/src/App.css.
+    - Data persistence: Backend writes to backend/tasks.json.
+    - Troubleshooting CORS: Express has CORS enabled for frontend requests.
 
-🧩 Extending the App
+## 🧩 Extending the App
 You can extend this project with:
 
 - Due dates
@@ -64,6 +62,5 @@ You can extend this project with:
 - LocalStorage fallback
 - Export/import task data
 
-🧑‍💻 Open in VSCode
-
+## 🧑‍💻 Open in VSCode
 code todo-timer-app.code-workspace
