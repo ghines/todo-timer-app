@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  padding: 2rem;
+}
+button {
+  margin-left: 0.5rem;
+}
+input {
+  margin-right: 1rem;
+  padding: 0.3rem;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
