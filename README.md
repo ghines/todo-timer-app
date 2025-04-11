@@ -4,6 +4,11 @@ A simple yet flexible full-stack To-Do web app built with React and Express.js. 
 
 ---
 
+This project was written entirely by ChatGPT prompt to setup the project and initial files. Github Copilot was used to flesh out comments (so that I could understand the React better as
+I'm still learning that part). The longest part of this project was getting this README configured and displayed the way I wanted. No edits have been made to the actual code as of yet.
+
+---
+
 ## 🚀 Features
 
 - Add tasks with or without timers.
